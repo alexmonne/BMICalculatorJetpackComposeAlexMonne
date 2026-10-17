@@ -6,11 +6,13 @@ l'Índex de Massa Corporal d'un usuari de una manera rapida i tambe de manera pe
 Demostració de les Interfícies UI
 
 Interfície Basica
+
 <img width="362" height="287" alt="Captura de pantalla 2026-10-16 233008" src="https://github.com/user-attachments/assets/5cadec2c-d1f0-4307-a7a3-39cef86aec5c" />
 
 
 Interfície Personalitzada
 
+<img width="336" height="633" alt="Captura de pantalla 2026-10-17 231532" src="https://github.com/user-attachments/assets/00f5fad9-a9ee-4c15-87c6-a669265e90c5" />
 
 
 Branques 
