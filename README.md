@@ -8,6 +8,7 @@ Demostració de les Interfícies UI
 Interfície Basica
 <img width="362" height="287" alt="Captura de pantalla 2026-10-16 233008" src="https://github.com/user-attachments/assets/5cadec2c-d1f0-4307-a7a3-39cef86aec5c" />
 
+
 Interfície Personalitzada
 
 
