@@ -16,6 +16,7 @@ Interfície Personalitzada
 
 
 Branques 
+
 **main**: Conté el codi de la versió base amb la interfície estàndard i funcional.
 **UI-personalitzada**: Branca que conte el redisseny de la interfície d'usuari amb millores de disseny.
 
